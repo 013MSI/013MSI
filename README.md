@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **013MSI/013MSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<h1 align="left">Hi 👋, I'm Maryam Ilyas</h1>
+Lifelong Learner
+
+<!--
+- 💬 About Me: I am a Computer Science student at CCNY with a dual minor in International Studies and Journalsim. I love learning new things about tech! I am interested in web dev, software, microelectronics, mechatronics, and product managment.
+- 📫 How to reach me: Feel free to reachout to me on [LinkedIn](www.linkedin.com/in/maryamilyas)
 -->
